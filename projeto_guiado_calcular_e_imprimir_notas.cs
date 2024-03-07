@@ -5,9 +5,9 @@ class Program
 {
     static void Main()
     {
-    //definindo a variavel da media dos alunos
+	//definindo a variavel da media dos alunos
         int mediaAlunos = 5;
-		//declarando os valores das notas
+	//declarando os valores das notas
         int sophia1 = 93;
         int sophia2 = 87;
         int sophia3 = 98;
