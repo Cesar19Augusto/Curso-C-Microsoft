@@ -23,8 +23,13 @@ Jeong:  90, 92, 98, 100, 97
 
 O professor exige que as notas calculadas de cada aluno sejam exibidas da seguinte maneira:
 
-Student     Grade
-Sophia      94.6  A
-Nicolas     83.6  B
-Zahirah     83.4  B
-Jeong       95.4  A
+Student     
+Grade
+Sophia     
+94.6  A
+Nicolas     
+83.6  B
+Zahirah    
+83.4  B
+Jeong      
+95.4  A
