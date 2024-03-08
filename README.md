@@ -43,12 +43,13 @@ Jeong
 
 Você está desenvolvendo uma Calculadora de GPA do Aluno que ajudará a calcular a média geral de notas dos alunos. Os parâmetros para o aplicativo são os seguintes:
 
-Você recebe o nome do aluno e as informações da classe.
-Cada classe tem um nome, a nota do aluno e o número de horas de crédito da disciplina.
-O aplicativo precisa executar operações matemáticas básicas para calcular o GPA do aluno especificado.
-O aplicativo precisa produzir/exibir o nome do aluno, as informações da classe e o GPA.
+- Você recebe o nome do aluno e as informações da classe.
+- Cada classe tem um nome, a nota do aluno e o número de horas de crédito da disciplina.
+- O aplicativo precisa executar operações matemáticas básicas para calcular o GPA do aluno especificado.
+- O aplicativo precisa produzir/exibir o nome do aluno, as informações da classe e o GPA.
+
 Para calcular o GPA, faça o seguinte:
 
-Multiplique o valor da nota de uma disciplina pelo número de horas de crédito dessa disciplina.
-Faça isso para cada disciplina e adicione esses resultados juntos.
-Divida a soma resultante pelo número total de horas de crédito.
+- Multiplique o valor da nota de uma disciplina pelo número de horas de crédito dessa disciplina.
+- Faça isso para cada disciplina e adicione esses resultados juntos.
+- Divida a soma resultante pelo número total de horas de crédito
