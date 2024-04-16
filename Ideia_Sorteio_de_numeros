@@ -1,6 +1,5 @@
 //Sorteando uma pessoa do grupo por numero ao invés do nome
 using System;
-
 class Program
 {
     static void Main()
