@@ -1,6 +1,7 @@
 # Curso-CSharp-Microsoft
 
 No curso de c# (Curso Escreva seu primeiro código usando C# (Introdução ao C#, Parte 1)) guiado pela propria microsoft eu tive a base para a linguagem, exercicios/desafios e dois projetos de conclusão guiados.
+
 Neste curso de c# ( Criar e executar aplicativos de console C# simples (Introdução ao C#, Parte 2)) guiado pela propria microsoft eu tive a base para a linguagem, exercicios/desafios.
 
 # Explicação do Projeto Guiado Calcular(Introdução ao C#, Parte 1): 
