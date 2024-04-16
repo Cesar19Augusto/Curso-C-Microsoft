@@ -1,8 +1,9 @@
 # Curso-CSharp-Microsoft
 
-Neste curso de c# (Curso Escreva seu primeiro código usando C# (Introdução ao C#, Parte 1)) guiado pela propria microsoft eu tive a base para a linguagem e dois projetos de conclusão guiados.
+No curso de c# (Curso Escreva seu primeiro código usando C# (Introdução ao C#, Parte 1)) guiado pela propria microsoft eu tive a base para a linguagem, exercicios/desafios e dois projetos de conclusão guiados.
+Neste curso de c# ( Criar e executar aplicativos de console C# simples (Introdução ao C#, Parte 2)) guiado pela propria microsoft eu tive a base para a linguagem, exercicios/desafios.
 
-# Explicação do Projeto Guiado Calcular: 
+# Explicação do Projeto Guiado Calcular(Introdução ao C#, Parte 1): 
 Você está desenvolvendo um aplicativo de Notas de Alunos que automatiza o cálculo das notas atuais de cada aluno de uma classe. Os parâmetros do aplicativo são os seguintes:
 
 - Você recebe uma pequena lista de quatro alunos com as notas das cinco tarefas que eles realizaram.
@@ -39,7 +40,7 @@ Jeong
 95.4  A
 
 
-# Explicação projeto Guiado Calcular GPA final
+# Explicação projeto Guiado Calcular GPA final(Introdução ao C#, Parte 1)
 
 Você está desenvolvendo uma Calculadora de GPA do Aluno que ajudará a calcular a média geral de notas dos alunos. Os parâmetros para o aplicativo são os seguintes:
 
